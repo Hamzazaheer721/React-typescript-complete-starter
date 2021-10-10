@@ -1,7 +1,7 @@
 import { FC } from 'react'
 import RouterComponent from './routes'
 
-const App: FC = () => (
+const App: FC<{}> = () => (
   <RouterComponent />
 )
 

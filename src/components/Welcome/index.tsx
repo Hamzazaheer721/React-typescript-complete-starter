@@ -4,7 +4,7 @@ import { Container, WelcomeText } from './index.styled';
 const WelcomeComponent: FC<{}> = () => (
   <Container>
     <WelcomeText>
-      Welcome to Vonage Test
+      React Typscript
     </WelcomeText>
   </Container>
 )

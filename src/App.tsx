@@ -1,9 +1,8 @@
+import { FC } from 'react'
 import RouterComponent from './routes'
 
-function App() {
-  return (
-    <RouterComponent />
-  )
-}
+const App: FC = () => (
+  <RouterComponent />
+)
 
 export default App
